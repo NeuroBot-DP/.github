@@ -21,4 +21,9 @@ To demonstrate that using low-cost EEG technology to decode words from the brain
 - **Data Collection:** High-density 64-channel ANT Neuro EEG headset (for creating the dataset).  
 - **Experiment Setup:** PsychoPy for presenting visual stimuli (Rapid Serial Visual Presentation).  
 - **Model:** Hybrid Deep Learning (CNN and LSTM).  
-- **Hardware (Showcase):** Microcontroller-controlled object or a simple robotic system.  
+- **Hardware (Showcase):** Microcontroller-controlled object or a simple robotic system.
+
+
+Download the Data from here
+
+https://drive.google.com/drive/folders/1scRpbIvDKUIgq61dU386H4zd_zc1WAH1?usp=sharing
